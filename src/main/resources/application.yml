@@ -8,4 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///D:\git-local-repo
+          uri: https://github.com/cdkim1226/spring-cloud-config.git
+#          private 저장소일때
+#          username: [your username]
+#          password: [your password]
